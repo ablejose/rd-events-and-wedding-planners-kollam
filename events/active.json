@@ -1,0 +1,37 @@
+{
+  "slug": "rd-events-and-wedding-planners-kollam",
+  "name": "RD Events & Wedding Planners",
+  "shortName": "RD Events & Wedding Planners",
+  "descriptor": "Event Management",
+  "address": "Decoration villa Mukkad, po, Kavanad, Kollam, Keralam 691003",
+  "area": "Kavanad",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691003",
+  "geo": {
+    "lat": 8.928654,
+    "lng": 76.5599482
+  },
+  "mapsLink": "https://maps.google.com/?cid=12254474659609608447",
+  "phone": "+91 99471 85765",
+  "whatsapp": "919947185765",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [
+    {
+      "name": "Alphy Antony",
+      "rating": 5,
+      "quote": "Good experience Tension free work"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://rd-events-and-wedding-planners-koll.vercel.app"
+}
